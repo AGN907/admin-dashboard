@@ -1,9 +1,11 @@
 # Admin-Dashboard
+
 Admin-Dashboard project for the Intermediate CSS course in the [Odin Project](https://www.theodinproject.com/).
 
 Only using CSS Grid for positioning.
 
 ## Credits
+
 - [Material Design Icons](https://pictogrammers.com/library/mdi/)
 - [Planet icon](https://www.flaticon.com/free-sticker/planet_10775977)
 - [Boy icon](https://www.vecteezy.com/vector-art/22216804-face-profile-images-vector-illustration-in-flat-style)
