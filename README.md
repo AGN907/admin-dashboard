@@ -1,5 +1,5 @@
 # Admin-Dashboard
-Admin-Dashboard project for the Intermediate CSS course in the [Odin Project]().
+Admin-Dashboard project for the Intermediate CSS course in the [Odin Project](https://www.theodinproject.com/).
 
 Only using CSS Grid for positioning.
 
